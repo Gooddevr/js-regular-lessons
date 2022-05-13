@@ -1,0 +1,26 @@
+p {
+  color: rgb(13, 12, 24);
+  font-weight: 700;
+  font-size: 23px;
+  padding-bottom: 120px;
+  margin-left: 25px;
+}
+p span {
+  color: gold;
+  font-size: 28px;
+  text-decoration: italic;
+  margin-left: 25px;
+}
+
+h1 {
+  font-size: 43px;
+  font-weight: 900;
+  color: red;
+  padding-left: 35%;
+}
+
+.new_cub {
+  background-color: rgb(110, 69, 110);
+  height: 700px;
+  margin-bottom: 250px;
+}
